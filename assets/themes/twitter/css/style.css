@@ -7,7 +7,14 @@
   margin: 30px 0; }
 
 .navbar .nav {
-  float: right; }
+  float: right; 
+  margin-top: 63px;
+}
+
+.brand img {
+  position: relative;
+  right: 12px;
+}  
 
 /* posts index */
 .post > h3.title {
